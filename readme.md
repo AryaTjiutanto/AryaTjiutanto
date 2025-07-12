@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Nextjs,and Laravel**
 
-- 📫 How to reach me **aryatjiu.dev@gmail.com**
+- 📫 How to reach me **aryatjiutanto.dev@gmail.com**
 
 - 🎮 Wanna play a game together? **Ark survival evolved & Apex Legends**
 
