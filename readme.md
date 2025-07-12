@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aryatjiu.dev@gmail.com**
 
-- 🎮 Wanna play a game together? [Ark survival evolved & Apex Legends](Ark survival evolved & Apex Legends)
+- 🎮 Wanna play a game together? **Ark survival evolved & Apex Legends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
