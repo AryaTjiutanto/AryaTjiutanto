@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arya Tjiutanto</h1>
 <h3 align="center">A passionate Fullstack Web Developer from Indonesia</h3>
 
-- 👨‍💻 All of my projects are available at [https://antelocode.my.id/](https://antelocode.my.id/)
+- 👨‍💻 All of my projects are available at [https://aryatjiutanto.my.id/](https://aryatjiutanto.my.id/)
 
-- 📝 I regularly write articles on [https://medium.com/@antelocode](https://medium.com/@antelocode)
+- 📝 I regularly write articles on [https://medium.com/@aryatjiutanto.dev](https://medium.com/@aryatjiutanto.dev)
 
 - 💬 Ask me about **React, Nextjs,and Laravel**
 
