@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arya Tjiutanto</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
+![banner](https://res.cloudinary.com/dyvvaygth/image/upload/v1774708762/Gemini_Generated_Image_x54d1dx54d1dx54d_vg8yef.png)
+
 - 👨‍💻 All of my projects are available at [https://aryatjiutanto.my.id/](https://aryatjiutanto.my.id/)
 
 - 📝 I regularly write articles on [https://medium.com/@aryatjiutanto.dev](https://medium.com/@aryatjiutanto.dev)
